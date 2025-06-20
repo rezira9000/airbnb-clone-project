@@ -74,3 +74,6 @@ CI/CD Pipelines: Automated pipelines for testing and deploying code changes.
 # Database Design
 # Feature Breakdown
 # API Security
+# UI/UX Design Planning
+# Project Roles and Responsibilities
+# UI Component Patterns
