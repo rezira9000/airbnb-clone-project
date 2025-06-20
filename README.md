@@ -61,3 +61,5 @@ Manage risks and ensure project alignment with goals.
 Responsibilities:
 
 Gather and document business requirements.
+
+# 🧠 Technology Stack
